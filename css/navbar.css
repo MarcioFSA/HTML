@@ -1,9 +1,9 @@
 body{
     background-image: linear-gradient(to right, rgb(20,147,220), rgb(17,54,71));
 }
-* {
-    margin: 0;
-    padding: 0;
+*{
+    margin: 10;
+    padding: 10;
 }
 
 a{
